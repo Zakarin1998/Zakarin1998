@@ -1,6 +1,6 @@
-# 👋 Ciao, sono Alessandro Brillante
+# Alessandro Brillante
 
-**Consulente informatico** specializzato in backend per il mondo enterprise, con una passione per l’ottimizzazione, la creatività e l’AI applicata al mondo reale.
+Ciao, sono un **consulente informatico** specializzato in backend per il mondo enterprise, con una passione per l’ottimizzazione, la creatività e l’AI applicata al mondo reale.
 
 > 💡 La creatività, se ben incanalata, è un valore aggiunto nello sviluppo software.
 
@@ -140,5 +140,3 @@
 *Autorizzo il trattamento dei dati personali ai sensi del Regolamento (UE) 2016/679 (GDPR).*  
 Ultimo aggiornamento: **06/08/2025**
 </details>
-- ⚡ Fun fact: ...
--->
