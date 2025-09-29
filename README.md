@@ -9,7 +9,7 @@ Ciao, sono un **consulente informatico** specializzato in backend per il mondo e
 - 📍 Torino (TO)
 - ✉️ [alessandrobrillante78@gmail.com](mailto:alessandrobrillante78@gmail.com)
 - 🏢 Alfasoft SRL | Area Ricerca & Sviluppo
-- 🌐 [LinkedIn](https://www.linkedin.com/in/) <!-- Aggiungi il tuo profilo! -->
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alessandrobrillante) <!-- Aggiungi il tuo profilo! -->
 
 ---
 
@@ -47,7 +47,7 @@ Ciao, sono un **consulente informatico** specializzato in backend per il mondo e
 <p align="center">
   <!-- Social e Fun -->
   <a href="mailto:alessandrobrillante78@gmail.com"><img src="https://img.shields.io/badge/email-alessandrobrillante78@gmail.com-blue?style=flat-square&logo=gmail" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/tuo-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-informativo?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/alessandrobrillante" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-informativo?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/badge/Creativo%20&%20Eclettico-%F0%9F%A7%A1%20-blueviolet?style=flat-square" alt="Creativo & Eclettico"/>
 </p>
 
